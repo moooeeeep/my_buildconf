@@ -1,0 +1,5 @@
+name: my_package_set
+
+version_control:
+  - my_python_pkg:
+    github: moooeeeep/my_python_pkg
