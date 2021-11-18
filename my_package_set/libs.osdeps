@@ -1,3 +1,7 @@
 
 pillow:
   pip: pillow
+
+opencv-python:
+  pip: opencv-python
+
