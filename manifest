@@ -1,2 +1,5 @@
 package_sets:
   - ./my_package_set
+
+layout:
+  - my_python_pkg
